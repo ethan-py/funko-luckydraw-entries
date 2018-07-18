@@ -1,0 +1,5 @@
+IP:PORT:USER:PASS
+
+or
+
+IP:PORT
