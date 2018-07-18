@@ -1,5 +1,5 @@
-# Taskbot Restock Monitor
-Monitors Taskbot (aiomacbot) for restocks
+# Funko Raffle Script
+Mass enter emails into FUNKO Luckydraw
 
 [Twitter](https://twitter.com/ethancohen_)\
 [Haste](http://hasterestocks.io)\
